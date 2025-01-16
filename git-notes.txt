@@ -34,3 +34,10 @@ git push origin main
 or set upstream on every push so next time you only run git push
 
 git push -u origin main 
+
+
+
+FOR NEW CHANGES, these are the common commands to user
+git add .     -> to stage new changes
+git commit -m "description"    -> to commit
+git push     -> to upload changes/new commits to github
